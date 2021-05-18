@@ -1,3 +1,5 @@
+#This is a snake-ladder game prepared in Python 
+
 import random
 import time
 import sys
